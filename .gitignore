@@ -1,3 +1,15 @@
+# 构建 & 输出目录
+build/
+bin/
+
+# vscode / idea / clion 缓存
 .vscode/
-/bin
-*.out
+.idea/
+cmake-build-*/
+
+# 万一有人在源码目录里手滑生成中间文件
+task*/*.o
+task*/*.a
+task*/*.exe
+task*/*.so
+task*/*.dylib
