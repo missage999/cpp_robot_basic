@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
 project(VCPP_ROBOT_BASIC CXX)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # ① 所有可执行文件统一输出到 <工程顶层-build>/bin
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
