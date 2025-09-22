@@ -1,6 +1,6 @@
 #代码解释：https://lxblog.com/qianwen/share?shareId=e0d19615-7ace-4a99-98c0-23f18d2675bf
 # 可执行文件名字自取，这里叫 cmake_demo，新建项目需要改名
-set(TARGET_NAME cmake_demo)
+set(TARGET_NAME threadpool)
 
 # 👇 新增：监控 include/ 下所有头文件，触发重新配置
 file(GLOB_RECURSE lib_headers CONFIGURE_DEPENDS

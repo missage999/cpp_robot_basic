@@ -13,3 +13,6 @@ task*/*.a
 task*/*.exe
 task*/*.so
 task*/*.dylib
+
+# leetcode本地题解
+test.cpp
