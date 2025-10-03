@@ -10,3 +10,4 @@
 - [x] c++理论：[linux权限管理](https://lxblog.com/qianwen/share?shareId=80afc4b5-347a-46b6-a2cb-2b688c3e8dde)，[linux工程化技能](https://lxblog.com/qianwen/share?shareId=2b7e881a-1a67-45c9-a8c9-a95e858e0ff9)，[Git](https://lxblog.com/qianwen/share?shareId=5655ec44-64ff-416b-a40e-15f05aaab896)，[库概念](https://lxblog.com/qianwen/share?shareId=568489cc-408f-4b37-8bcd-53a738f8ed7b)，[库顺序](https://lxblog.com/qianwen/share?shareId=4a6d3560-2d61-4bfe-a7b1-e7ae3ee0655c)，[Cmake](https://lxblog.com/qianwen/share?shareId=8c3590de-5fcc-4145-9ab7-d923358b8151)，[Cmake深入](https://lxblog.com/qianwen/share?shareId=47ec3ca2-3a07-4465-b913-5f873a91ee53)  
     c++实践：cmake_tutorial  
     leetcode练习题：[LCR 122. 路径加密](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)，[LCR 123. 图书整理 I](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
+- [] 安装双系统ubuntu22.04.5并配置ros2开发环境。难点：[rosdep update error](https://lxblog.com/qianwen/share?shareId=560acf23-7e6d-474f-9a89-38a08208cc9d)
