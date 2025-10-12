@@ -17,4 +17,4 @@
 - [x] 理论：[srv_param — Service + Parameter Demo动态修改参数服务](https://lxblog.com/qianwen/share?shareId=db3444fc-9576-4966-b9c8-b2e9e1c41e69)，在launch文件中加载参数、节点运行时读取并动态更新  
     leetcode练习题：[45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150)，[LCR 155. 将二叉搜索树转化为排序的双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/description/)
 - [x] 理论：[TF2静态/动态广播 + Rviz可视化 + 整理文档与视频](https://lxblog.com/qianwen/share?shareId=52e180e3-4210-4a0b-a8a1-4322f33f8a80)  
-    leetcode练习题：
+    leetcode练习题：[274. H 指数](https://leetcode.cn/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)，[LCR 156. 序列化与反序列化二叉树](https://leetcode.cn/problems/xu-lie-hua-er-cha-shu-lcof/description/)
