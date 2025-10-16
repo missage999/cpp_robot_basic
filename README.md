@@ -19,4 +19,4 @@
 - [x] 理论：[TF2静态/动态广播 + Rviz可视化 + 整理文档与视频](https://lxblog.com/qianwen/share?shareId=52e180e3-4210-4a0b-a8a1-4322f33f8a80)  
     leetcode练习题：[274. H 指数](https://leetcode.cn/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)，[LCR 156. 序列化与反序列化二叉树](https://leetcode.cn/problems/xu-lie-hua-er-cha-shu-lcof/description/)
 - [x] 理论：[配置 TurtleBot3 + ROS 2 Humble 仿真环境](https://lxblog.com/qianwen/share?shareId=ce216a4a-e1a1-43cd-b592-3ad763af00d7)，[项目初始化](https://lxblog.com/qianwen/share?shareId=2c07e621-4488-41ad-b9ea-76fd0a2f3aae)，创建仓库  
-    leetcode练习题：
+    leetcode练习题：[380. O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150)，[LCR 174. 寻找二叉搜索树中的目标节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/description/)
