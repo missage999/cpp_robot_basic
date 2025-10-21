@@ -21,4 +21,4 @@
 - [x] 理论：[配置 TurtleBot3 + ROS 2 Humble 仿真环境](https://lxblog.com/qianwen/share?shareId=ce216a4a-e1a1-43cd-b592-3ad763af00d7)，[项目初始化](https://lxblog.com/qianwen/share?shareId=2c07e621-4488-41ad-b9ea-76fd0a2f3aae)，创建仓库  
     leetcode练习题：[380. O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150)，[LCR 174. 寻找二叉搜索树中的目标节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/description/)
 - [] 理论：[SLAM建图](https://lxblog.com/qianwen/share?shareId=8b673c5c-ca4f-4091-b751-211727cd63bc)，[单点导航的/map无数据问题和初始位姿问题](https://www.kimi.com/share/d3r4rd6f5kufp8642hpg)  
-    leetcode练习题：
+    leetcode练习题：[238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150)，[LCR 133. 位 1 的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/description/)
