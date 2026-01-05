@@ -1,4 +1,5 @@
 #include "word_counter.h"
+#include <map>
 #include <sstream>
 #include <algorithm>
 
